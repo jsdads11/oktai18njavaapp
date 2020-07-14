@@ -1,1 +1,1 @@
-# oktai18n
+# oktai18njavaapp
